@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DIYEdit</string>
+    <string name="saveToolsKey">存档编辑</string>
+    <string name="modifyGamesKey">游戏编辑</string>
+    <string name="modifyRecordsKey">唱片编辑</string>
+    <string name="modifyMangaKey">漫画编辑</string>
+    <string name="openFileKey">打开文件......</string>
+    <string name="tagAllKey">标记所有......</string>
+    <string name="metaDataEditKey">编辑元数据(自动识别mio文件类型)</string>
+    <string name="midiToolsKey">播放/导出 MIDI</string>
+    <string name="exportAllKey">导出所有......</string>
+</resources>

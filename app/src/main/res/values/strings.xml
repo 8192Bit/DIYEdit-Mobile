@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DIYEdit</string>
+    <string name="saveToolsKey">Save Tools</string>
+    <string name="modifyGamesKey">Modify Games</string>
+    <string name="modifyRecordsKey">Modify Records</string>
+    <string name="modifyMangaKey">Modify Manga</string>
+    <string name="openFileKey">Open file...</string>
+    <string name="tagAllKey">Tag all...</string>
+    <string name="metaDataEditKey">Edit metadata[Automatic detect mio file]</string>
+    <string name="midiToolsKey">Play/Export MIDI</string>
+    <string name="exportAllKey">Export All...</string>
+</resources>
