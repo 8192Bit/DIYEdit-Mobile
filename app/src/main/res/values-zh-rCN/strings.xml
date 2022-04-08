@@ -10,4 +10,11 @@
     <string name="metaDataEditKey">编辑元数据(自动识别mio文件类型)</string>
     <string name="midiToolsKey">播放/导出 MIDI</string>
     <string name="exportAllKey">导出所有......</string>
+    <string name="exportAllOBJKey">导出所有OBJ......</string>
+    <string name="viewMangaKey">查看漫画......</string>
+    <string name="viewBGKey">查看游戏BG......</string>
+    <string name="editGameKey">编辑游戏</string>
+    <string name="editRecordKey">编辑唱片</string>
+    <string name="editMangaKey">编辑漫画</string>
+    <string name="unlockKey">解锁......</string>
 </resources>
